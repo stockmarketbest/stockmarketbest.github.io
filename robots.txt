@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: 
+
+User-agent: Bingbot
+Disallow: 
+
+User-agent: Twitterbot
+Disallow: 
+
+User-agent: *
+Disallow: /
+
+Crawl-Delay: 10
+Sitemap: https://stockmarket.best/sitemap.xml
